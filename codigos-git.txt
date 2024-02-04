@@ -4,6 +4,12 @@ git remote add origin (link do github) - linka com o github
 
 git add . - adicionar o conteudo da pasta
 
-git commit -m "nome do commit" - 
+git commit -m "nome do commit" - nomeia a mudança
 
-git push origin main
+git push origin main - envia para o github
+
+git checkout -b (nome do branch novo) - desloga e cria uma branch nova
+
+git checkout (nome da branch) - troca a branch
+ 
+git branch - mostrar as branchs e qual estou
